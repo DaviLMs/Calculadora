@@ -5,9 +5,7 @@ import {
     Dimensions,
     TouchableHighlight,
 } from 'react-native'
-operationRaisquadrada: {
-    Math.sqrt(2)
-}
+
 const style = StyleSheet.create({
     button: {
         fontSize: 35,
